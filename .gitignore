@@ -1,0 +1,15 @@
+# Archivos y carpetas temporales de Windows
+AppData/
+Thumbs.db
+*.log
+*.tmp
+*.bak
+
+# Archivos de base de datos si no querés subirlos completos
+*.db
+
+# Archivos de compilación
+bin/
+obj/
+*.class
+*.exe
