@@ -22,7 +22,5 @@ El proyecto utiliza una **base de datos MySQL** para almacenar información de p
   - MySQL Connector (conexión a la base de datos)
 - IDE recomendado: **NetBeans**
 
-## Instalación
-1. Descargar o clonar el repositorio:
-```bash
+
 
